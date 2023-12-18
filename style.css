@@ -55,3 +55,53 @@ ul li a {
   padding-left: 20px;
   font-size: 35px;
 }
+
+.teacher{
+  width: 90%;
+  height: 200px;
+}
+
+.label_text{
+  display: inline-block;
+  width: 100%;
+  text-align: left;
+  padding-right: 10px;
+}
+
+.input_deg{
+  width: 30%;
+  height: 40px;
+  border-radius: 25px;
+  border: 1px solid blue;
+}
+
+.input_txt{
+  width: 30%;
+  height: 120px;
+  border-radius: 25px;
+  border: 1px solid blue;
+}
+
+#submit{
+    position: relative;
+    width: 15%;
+    left: 5%;
+}
+
+footer{
+  background-color: black;
+  height: 70;
+  width: 100%;
+}
+
+.footer_text{
+  text-align: center;
+  color: white;
+  top: 20%;
+  position: relative;
+}
+
+.heading{
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
